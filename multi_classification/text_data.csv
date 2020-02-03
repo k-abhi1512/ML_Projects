@@ -1,0 +1,27 @@
+locale,i_name,example
+en,greetings,hi
+en,greetings,hello
+en,greetings,hey
+en,order,I am hungry
+en,order,I'd like a pizza
+en,order,I want to order a pizza
+en,order,I want to order a large pizza
+en,order,Can I get a pizza margherita small please
+en,order,za
+en,order,order
+en,help,help
+en,help,help please
+en,help,whats can i do
+en,help,i dont understand
+en,exit,get me out of here
+en,exit,get me out
+en,exit,cancel
+en,exit,exit
+en,order,no
+en,order,i am done
+en,reset,begin
+en,reset,reset
+en,reset,delete the inputs
+en,reset,start again
+
+
